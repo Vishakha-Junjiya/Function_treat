@@ -234,8 +234,8 @@ py Function_treat.py
 📁 Project Structure
 project_4/
 │
-├── Function_treat_output.png
-├── function_treat_output(2).png
+├── Function_treat_output(1).png
+├── Function_treat_output(2).png
 ├── Function_treat_output(3).png
 ├── Function_treat_output(4).png
 ├── Function_treat.py
@@ -243,8 +243,8 @@ project_4/
 📄 File Description
 File	Description
 Function_treat.py	Main Python program containing the Data Analyzer and Transformer implementation
-Function_treat_output.png	Project output screenshot
-function_treat_output(2).png	Project output screenshot
+Function_treat_output(1).png	Project output screenshot
+Function_treat_output(2).png	Project output screenshot
 Function_treat_output(3).png	Project output screenshot
 Function_treat_output(4).png	Project output screenshot
 README.md	Project documentation
